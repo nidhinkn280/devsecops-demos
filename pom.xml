@@ -14,7 +14,7 @@
     <name>manik-calculator</name>
     
     <properties>
-        <tomcat.version>9.0.52</tomcat.version>
+        <tomcat.version>9.0.108</tomcat.version>
         <java.version>11</java.version>
         <dockerfile-maven-plugin.version>1.4.13</dockerfile-maven-plugin.version>
 
@@ -25,7 +25,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-            <version>2.6.3</version>
+            <version>3.3.7</version>
         </dependency>
         
         <!-- Tomcat -->
